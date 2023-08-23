@@ -1,1 +1,33 @@
-/*  your css code here. If applicable */
+body{
+	margin:0px;
+	padding:0px;
+	
+}
+.hero{
+	width:700px;
+	height:300px;
+	display:flex;
+}
+#sec-1{
+	width:500px;
+	height:300px;
+	background:blue;
+}
+img{
+	width:500px;
+	height:300px;
+}
+#sec-2{
+	width:200px;
+	height:300px;
+	background:white;
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	background:red;
+	color:white;
+	padding:5px;
+	box-sizing:border-box;
+	border-radius:7px;
+}
